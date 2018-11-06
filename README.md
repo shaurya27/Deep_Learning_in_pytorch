@@ -11,3 +11,4 @@ Implementing the different architectures from data loading to training
 6. **CNN pytorch.ipynb** : Implemented CNN model on Fashion Mnis datasets
 7. **LSTM pytorch.ipynb** : Implemented LSTM to do sentimental analysis and also learnt how to do pre processing on text data, how to use pre-trained word embedding in the model, how to see trainable parameters of the model and how to use tensorboard in pytorch_practice
 8. **language_model(seq2seq) pytorch.ipynb** : Implemented seq2seq language model and also learnt how to use variable length input for lstm and how to do some pre-processing on datasets
+9. **encoder_decoder_with_attention.ipynb** : Tried Machine translation usind encoder and decoder using attention for hindi to english.
